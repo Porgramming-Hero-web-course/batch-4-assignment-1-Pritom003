@@ -1,6 +1,6 @@
 {
 class Car {
-    constructor(public carbrand:string , public cartlype:string , public year:number){}
+    constructor(public make:string , public model:string , public year:number){}
 
 
     getCarAge():number{
